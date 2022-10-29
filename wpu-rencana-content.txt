@@ -3,7 +3,10 @@
  - Javascript
    * ES6
    * Framework Javascript
+     ^ Vue
  - Struktur Data Dasar
  - PHP Framework
+   ^ Laravel
  - Interview
  - Vlogs
+ - Python
